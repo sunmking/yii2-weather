@@ -1,5 +1,5 @@
 {
-    "name": "saviorlv/yii2-dysms",
+    "name": "saviorlv/yii2-weather",
     "description": " 天气 SDK for PHP",
     "keywords": [ "yii2", "amap", "高德", "weather","php","sdk"],
     "type": "library",
