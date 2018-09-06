@@ -1,6 +1,6 @@
 {
     "name": "saviorlv/yii2-weather",
-    "description": " 天气 SDK for PHP",
+    "description": "基于高德开放平台的天气 SDK for Yii2",
     "keywords": [ "yii2", "amap", "高德", "weather","php","sdk"],
     "type": "library",
     "license": "Apache-2.0",
