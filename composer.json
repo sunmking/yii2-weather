@@ -4,7 +4,7 @@
     "keywords": [ "yii2", "amap", "高德", "weather","php","sdk"],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/saviorlv/aliyun-dysms",
+    "homepage": "https://github.com/saviorlv/yii2-weather",
     "authors": [
         {
             "name": "saviorlv",
