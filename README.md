@@ -178,6 +178,8 @@ array | string   getForecastsWeather(string $city, string $format = 'json')
 - [overtrue/weather](https://github.com/overtrue/weather)
 - [高德开放平台天气接口](https://lbs.amap.com/api/webservice/guide/api/weatherinfo/)
 
+## 感谢
+> 非诚感谢  [overtrue/weather](https://github.com/overtrue/weather)
 ## License
 
 MIT
