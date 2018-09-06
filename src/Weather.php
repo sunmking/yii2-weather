@@ -25,21 +25,21 @@ class Weather extends Component
     /**
      * @var string
      */
-    protected $key;
+    public $key;
     /**
      * @var string
      */
-    protected $dataType='json';
+    public $dataType='json';
 
     /**
      * @var string
      */
-    protected $apiUrl = 'https://restapi.amap.com/v3/weather/weatherInfo';
+    public $apiUrl = 'https://restapi.amap.com/v3/weather/weatherInfo';
 
     /**
      * @var array
      */
-    protected $guzzleOptions = [];
+    public $guzzleOptions = [];
 
     /**
      * @throws InvalidConfigException
