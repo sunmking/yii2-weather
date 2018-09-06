@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "saviorlv\\amap\\": "src/"
+            "Saviorlv\\Amap\\": "src/"
         }
     }
 }
