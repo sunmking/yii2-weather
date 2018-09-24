@@ -180,6 +180,7 @@ array | string   getForecastsWeather(string $city, string $format = 'json')
 
 ## 感谢
 > 非诚感谢  [overtrue/weather](https://github.com/overtrue/weather)
+> 非常感谢  [overtrue/weather](https://github.com/overtrue/weather)
 ## License
 
 MIT
